@@ -1,0 +1,15 @@
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.AssemblyInfoInputs.cache
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.AssemblyInfo.cs
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.csproj.CoreCompileInputs.cache
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.sourcelink.json
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/bin/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/bin/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.deps.json
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/bin/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.runtimeconfig.json
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/bin/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.dll
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/bin/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.pdb
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.dll
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-delynch3.dll
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.pdb
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/mis-221-lab-3-2nd-link-delynch3.genruntimeconfig.cache
+/Users/dannysfolder/mis-221-lab-3-2nd-link-delynch3/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-delynch3.dll
